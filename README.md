@@ -1,5 +1,5 @@
 # Portfolio-Projects
-Projects that are either on my resume, or simply mean more to me.
+Projects that are either on my resume, or simply took more effort to complete.
 
 Hey! Thanks for visiting. 
 The files listed in this repository correlate to the projects listed on my resume. 
